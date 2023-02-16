@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "stock-analysis-377310",
+  "private_key_id": "8c0518f77987c7a27147f8bdf1b4790d3576dabd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDbj3yHWXpMlZ32\n0kF9J6YNdu2S08dWTN+LynvMDdph24XKmgDFWPmq/Q5Vr/owoDQN2MKCzwlYAE/i\ndWJTwl+mDonGuXbYI4efk+jFpD+viDv6Ex5qRYudKzsOyyi18PzyOAvqCMqgsmFT\npeA2mvFHpesBiw2JgRMl7mlpDdZoQtobQ95Xz4czwz9dn8HMIMGuTnTt/6As+dIs\npu/QrlIaCleBbQMIoNOQHweR+VPDeiFhBh8K24KNb9jYdQYRRnYDfWgg+xJ2Zmhf\nppHsLtwlldXBgTJJmE8VzvA+g+p9AHsBDFXEdI61tq5TjNO+6l4i/GWYle2jJahl\nDA+Gnu+fAgMBAAECggEAYR1qe4O8cLuND2uYw/8Rl8sO8m7yMN330yFQ+MT332j2\nGNNdm+zrIhKkkIoyI+f4nldOUgW5oE8jBovdXicPn6e2kUvfoWK1zoPh5enssXuU\n69whC+iPBInmqXh7HV7mw0y/GFmjJsk/+3vXXM/UAVkGRbx31GZfTdvSjEEuoRZ/\nHkoby7V/Vlc4xJSt+6rFZwjJl3HNNXEi09WuU8dBTlX0J9eWQt0HM2tM/93++YyP\n3jnuyhDFlR7M+mf4TP17X9Eu1fXipc+nfJk3cXnfyBYtE37JPAeBAhxHE+g0H0E3\nKJsmLCbuGLFVLxxHjtoWrxBP2fRofX6CvyYfATuowQKBgQDucwjnXNXIGJlUOmQd\nuwjMG4lVb+qGEr9aUnAXCR/L13LZiV07UbBXEKi58juxorxTnchCJp0q7rPSiP86\nbOcU83vgWOvs4/BBp2zMe3D82iMrSl7XrS3IANbkfuGFC/p1SFdohLNE/Oq6saIa\nL/b71kzM+7Io1kOPrMKbWufzlwKBgQDruIolGUXhVmGQLXbkvmQlURThmeN28XFT\nUVxgzZVVJPXt08kBcwQJwis75fC5MvkjHlQt5Ehgro6B7+XShZ/F+Xa3FtPUrj3w\nEdbBSJnUZbZfoeDs+QgaaHc9lyiGXoBd4GRBXSvF22uRkQTFZmIUL5ZHGSAVCrXw\nL/7dIH5FOQKBgEKcmCwp3v7bAFprRXSYv0hlmOPpM9bofdQ5m16UCfHj6g2jNgxQ\nMbbgzIHFja9+CqZBOaRhLR7FOC7kXohvy84qhryRmra+pmtw3g/xnArG1XROflg5\n5MQul9mVKGMGiZ0h7GkiSQJItToaTXKLW6/WmfXZilemI5GLbYIAzzNZAoGBAJcm\ndi7jzdN4uIbjIGH9U+o529HuA9W5bJmoijvol+FJGgmuzC2JuwUm5OI7x+h5rxe9\n0uy6fU7Bn8/iLNSZqqIgHOe6U4sFT+IpDjRSgZGYxyD7hGdwKKoGYq+zxeCjqFyK\nDr97Jx5wXMGy5ARQaoPXH93nVpMnkxK5NAxHUbDBAoGAAI32zPoxJ2ytLtjzZDr3\npa+iK+i8sQyFHloyzQS4jqtOFftEe++bjZpFjQDrfteVZFmuAM/fTfkmkpAxlnG8\ntkIGFXdEYxSqxr5ZkVzFrJ6tsWMIfUUyIldV0fGJcigYQYCdvwkERbBN3WoXWPWN\n4xKO2+s+qs4BlzLSiW06TEI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "archi-794@stock-analysis-377310.iam.gserviceaccount.com",
+  "client_id": "110449430775938503512",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/archi-794%40stock-analysis-377310.iam.gserviceaccount.com"
+}
